@@ -1,7 +1,15 @@
 [![Header](https://github.com/kurnatovskii/Kurnatovskii/blob/main/assets/Group%206.png)](https://www.linkedin.com/in/curnatovschi/)
 
-About me
+## I am a Certified QA Engineer with over 1 year of experience in the field
 
-Languages and Tools
+### Languages and Tools
+![Cypress](https://img.shields.io/badge/Cypress-090909?style=for-the-badge&logo=cypress&logoColor=68d3a7)
+![JS](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
+![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76837)
+![Swagger](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=699503)
+![Github](https://img.shields.io/badge/GitHub-090909?style=for-the-badge&logo=github&logoColor=732f99)
+![Jira](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=2480f7)
+![Trello](https://img.shields.io/badge/Trello-090909?style=for-the-badge&logo=trello&logoColor=0283d1)
+![Slack](https://img.shields.io/badge/Slack-090909?style=for-the-badge&logo=slack&logoColor=d91d57)
 
 Follow me
