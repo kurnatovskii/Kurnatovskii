@@ -2,8 +2,7 @@
 
 ## I am a Certified QA Engineer with over 1 year of experience in this domain
 
-## My CV:
-[Click to see my cv](https://drive.google.com/file/d/1mf_Un67A8IatJbyN-sWVAngM4ybP1jcA/view?usp=sharing)
+## My CV: [Click to see my cv](https://drive.google.com/file/d/1mf_Un67A8IatJbyN-sWVAngM4ybP1jcA/view?usp=sharing)
 
 ### Languages and Tools:
 ![Cypress](https://img.shields.io/badge/Cypress-090909?style=for-the-badge&logo=cypress&logoColor=68d3a7)
