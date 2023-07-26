@@ -1,4 +1,4 @@
-[![Header](https://github.com/kurnatovskii/Kurnatovskii/blob/main/assets/Group%206.png)](https://www.linkedin.com/in/curnatovschi/)
+[![Header](https://github.com/kurnatovskii/Kurnatovskii/blob/main/assets/logo.jpg)](https://www.linkedin.com/in/curnatovschi/)
 
 ## I am a Certified QA Engineer with over 1 year of experience in this domain
 
