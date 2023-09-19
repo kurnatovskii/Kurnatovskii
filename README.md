@@ -1,6 +1,6 @@
 [![Header](https://github.com/kurnatovskii/Kurnatovskii/blob/main/assets/logo.jpg)](https://www.linkedin.com/in/curnatovschi/)
 
-## I am a Certified QA Engineer with over 1 year of experience in this domain
+## I am a Certified QA Engineer with over 3 years of experience in this domain
 
 ## My CV: [Click ⬅️](https://drive.google.com/file/d/1mf_Un67A8IatJbyN-sWVAngM4ybP1jcA/view?usp=sharing)
 
