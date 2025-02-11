@@ -19,5 +19,3 @@
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0e62bc)](https://www.linkedin.com/in/curnatovschi/)
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=25a3e3)](https://t.me/kurnatovski)
-[![Facebook](https://img.shields.io/badge/Facebook-090909?style=for-the-badge&logo=facebook&logoColor=1873eb)](https://www.facebook.com/kurnatovskii.a)
-[![Instagram](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=ef0092)](https://www.instagram.com/kurnatovskii_/)
